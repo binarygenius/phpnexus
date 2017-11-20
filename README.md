@@ -4,6 +4,8 @@ PHP has a huge community and many resources spread all around the Internet. This
 
 This list is originally based upon the [awesome-php](https://github.com/ziadoz/awesome-php) repository by Jamie York.
 
+Please help keep the list updated!
+
 ## Composer Repositories
 *Composer Repositories.*
 
