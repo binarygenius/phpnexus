@@ -4,7 +4,9 @@ PHP has a huge community and many resources spread all around the Internet. This
 
 This list is originally based upon the [awesome-php](https://github.com/ziadoz/awesome-php) repository by Jamie York.
 
-Please help keep the list updated!
+Help keep the list updated!
+
+Note: Lets not clutter up the list with frameworks, e-commerce solutions, CMS systems, blogging systems, etc. Tons of such systems exist and even though a PHP programmer might be interested in such a system because he or she needs to locate a system for a client, these systems are not generally related to PHP programming per say. Lets try and keep the list related to PHP programming tools and aids.
 
 ## Composer Repositories
 *Composer Repositories.*
