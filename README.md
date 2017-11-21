@@ -31,27 +31,6 @@ Please help keep the list updated!
 * [tooly](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in project using Composer.
 * [Toran Proxy](https://toranproxy.com) - A static Composer repository and proxy.
 
-## Frameworks
-*Web development frameworks.*
-
-* [Aura Framework](http://auraphp.com/framework/) - A framework built from independent components.
-* [CakePHP](https://cakephp.org/) - A rapid application development framework (CP).
-* [Laravel 5](https://laravel.com/) - Another PHP framework (L5).
-* [Nette](https://nette.org) - Another framework comprised of individual components.
-* [Phalcon](https://phalconphp.com/en/) - A framework implemented as a C extension.
-* [PPI Framework 2](http://www.ppi.io) - An interoperability framework.
-* [Symfony](https://symfony.com/) - A framework comprised of individual components (SF).
-* [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
-* [Zend Framework 2](https://framework.zend.com) - Another framework comprised of individual components (ZF2).
-* [Ice](https://www.iceframework.org/) - Another simple and fast PHP framework delivered as C-extension.
-
-## Framework Extras
-*Extras related to web development frameworks.*
-
-* [CakePHP CRUD](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
-* [Knp RAD Components](http://rad.knplabs.com/) - A set of Rapid Application Development (RAD) components for Symfony.
-* [Symfony CMF](https://github.com/symfony-cmf/symfony-cmf) - A Content Management Framework to create custom CMS.
-
 ## Components
 *Standalone components from web development frameworks and development groups.*
 
@@ -61,24 +40,6 @@ Please help keep the list updated!
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
 * [Symfony Components](http://symfony.com/doc/master/components/index.html) - The components that make Symfony.
 * [Zend Framework 2 Components](https://docs.zendframework.com/) - The components that make Zend Framework.
-
-## Micro Frameworks
-*Micro frameworks and routers.*
-
-* [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
-* [Lumen](https://lumen.laravel.com) - A micro-framework by Laravel.
-* [Proton](https://github.com/alexbilbie/Proton) - A StackPHP compatible micro framework.
-* [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
-* [Silex](https://silex.symfony.com/) - A micro framework built around Symfony components.
-* [Slim](https://www.slimframework.com/) - Another simple micro framework.
-
-## Micro Framework Extras
-*Extras related to micro frameworks and routers.*
-
-* [Silex Skeleton](https://github.com/silexphp/Silex-Skeleton) - A project skeleton for Silex.
-* [Silex Web Profiler](https://github.com/silexphp/Silex-WebProfiler) - A web debug toolbar for Silex.
-* [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) - A skeleton for Slim.
-* [Slim View](https://github.com/slimphp/Slim-Views) - A collection of custom views for Slim.
 
 ## Routers
 *Libraries for handling application routing.*
@@ -423,16 +384,6 @@ Please help keep the list updated!
 * [KLogger](https://github.com/katzgrau/KLogger) - An easy-to-use PSR-3 compliant logging class.
 * [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
 
-## E-commerce
-*Libraries and applications for taking payments and building online e-commerce stores.*
-
-* [Money](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
-* [OmniPay](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
-* [Payum](https://github.com/payum/payum) - A payment abstraction library.
-* [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
-* [Swap](https://github.com/florianv/swap) - An exchange rates library.
-* [Sylius](http://sylius.org/) - An open source e-commerce solution.
-
 ## PDF
 *Libraries and software for working with PDF files.*
 
@@ -448,23 +399,6 @@ Please help keep the list updated!
 * [PHPPowerPoint](https://github.com/PHPOffice/PHPPresentation) - A library for working with Microsoft PowerPoint Presentations.
 * [PHPWord](https://github.com/PHPOffice/PHPWord) - A library for working with Microsoft Word documents.
 * [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel)
-
-## Database
-*Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.*
-
-* [Aura.Sql](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
-* [Aura.SqlQuery](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server. Edit
-* [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
-* [Cake ORM](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern (CP).
-* [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
-* [Doctrine](http://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
-* [Eloquent](https://github.com/illuminate/database) - A simple ORM (L5).
-* [LazyRecord](https://github.com/corneltek/LazyRecord) - A fast ORM designed for simplicity, extendability and performance.
-* [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
-* [Propel](http://propelorm.org/) - A fast ORM, migration library and query builder.
-* [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
-* [RedBean](https://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
-* [Spot2](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
 
 ## Migrations
 Libraries to help manage database schemas and migrations.
@@ -662,22 +596,6 @@ Libraries to help manage database schemas and migrations.
 * [Aura.Intl](https://github.com/auraphp/Aura.Intl) - Provides internationalization (I18N) tools, specifically package-oriented per-locale message translation.
 * [Cake I18n](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers (CP)
 
-## Third Party APIs
-*Libraries for accessing third party APIs.*
-
-* [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
-* [Campaign Monitor](http://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
-* [Digital Ocean](https://github.com/toin0u/DigitalOcean) - A library to interface with the Digital Ocean API.
-* [Dropbox SDK](https://github.com/dropbox/dropbox-sdk-php) - The official PHP Dropbox SDK library.
-* [Github](https://github.com/dsyph3r/github-api3-php) - A library to interface with the Github API.
-* [Mailgun](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
-* [PHP Github API](https://github.com/KnpLabs/php-github-api) - Another library to interface with the Github API.
-* [S3 Stream Wrapper](https://github.com/gwkunze/S3StreamWrapper) - A stream wrapper library for Amazon S3.
-* [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
-* [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
-* [Twitter OAuth](https://github.com/widop/twitter-oauth) - A library to interface with Twitter's OAuth workflow.
-* [Twitter REST](https://github.com/widop/twitter-rest) - A library to interact with Twitter's REST API.
-
 ## Extensions
 *Libraries to help build PHP extensions.*
 
@@ -794,7 +712,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ## PHP Websites
 *Useful PHP-related websites.*
 
-* [PHP The Wrong Way](http://www.phpthewrongway.com) - A pragmatic view on PHP programming
 * [Nomad PHP](https://nomadphp.com/) - A online PHP learning resource.
 * [PHP Best Practices](https://phpbestpractices.org/) - A PHP best practice guide.
 * [PHP FIG](http://www.php-fig.org/) - The PHP Framework Interoperability Group.
@@ -803,22 +720,13 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP School](https://www.phpschool.io/) - Open Source Learning for PHP.
 * [PHP Security](http://phpsecurity.readthedocs.io/en/latest/index.html) - A guide to PHP security.
 * [PHP The Right Way](http://www.phptherightway.com/) - A PHP best practice quick reference guide.
+* [PHP The Wrong Way](http://www.phpthewrongway.com) - A pragmatic view on PHP programming
 * [PHP UG](http://php.ug) - A website to help people locate their nearest PHP user group (UG).
 * [PHP Versions](http://phpversions.info/) - Lists which versions of PHP are available on several popular web hosts.
 * [PHP Weekly](http://www.phpweekly.com/archive.html) - A weekly PHP newsletter.
 * [PHPTrends](https://phptrends.com/) - An overview of fastest growing PHP libraries.
 * [Securing PHP](http://securingphp.com/) - A newsletter about PHP security and library recommendations.
 * [Seven PHP](https://7php.com/) - A website that interviews members of the PHP community.
-
-## Other Websites
-*Useful websites related to web development.*
-
-* [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
-* [Hg Init](http://hginit.com/) - A series of Mercurial tutorials.
-* [Semantic Versioning](http://semver.org/) - A website explaining semantic versioning.
-* [Servers for Hackers](https://serversforhackers.com/) - A newsletter about server management.
-* [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - An open software security community.
-* [WebSec IO](https://websec.io/) - A web security community resource.
 
 ## PHP Books
 *Fantastic PHP-related books.*
@@ -849,21 +757,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Understanding Computation](http://computationbook.com) - A book about computation theory by Tom Stuart.
 * [Vagrant Cookbook](https://leanpub.com/vagrantcookbook) - A book about creating Vagrant environments by Erika Heidi.
 
-## PHP Videos
-*Fantastic PHP-related videos.*
-
-* [Nomad PHP Lightning Talks](https://www.youtube.com/c/nomadphp) - 10 to 15 minute Lightning Talks by PHP community members.
-* [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - A collection of videos from the PHP UK Conference.
-* [Programming with Anthony](https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
-* [Taking PHP Seriously](https://www.infoq.com/presentations/php-history) - A talk outlining PHP's strengths by Keith Adams of Facebook.
-
-## PHP Podcasts
-*Podcasts with a main focus on PHP topics*
-
-* [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
-* [Voices of the ElePHPant](https://voicesoftheelephpant.com/) Interviews with the people that make the PHP community special.
-* [PHP Roundtable](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
-
 ## PHP Reading
 *PHP-releated reading materials.*
 
@@ -872,6 +765,8 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Composer Versioning](https://igor.io/2013/01/07/composer-versioning.html) - An article about Composer versioning.
 * [Create Your Own PHP Framework](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-1.html) - A series of articles on how to make your own PHP framework by Fabien Potencier.
 * [Don't Worry About BREACH](http://blog.ircmaxell.com/2013/08/dont-worry-about-breach.html) - An article about the BREACH hack and CSRF tokens.
+* [No your API isn't REST, but don't worry, it really shouldn't be!](http://bitflop.dk/articles/no-your-api-isnt-rest.html) - An article about that no HTTP driven API should try to be REST because it cannot.
+* [No your PHP framework isn't MVC, but don't worry, it really shouldn't be!](http://bitflop.dk/articles/no-your-web-application-isnt-mvc.html) - An article about how most of the popular PHP frameworks postulate that they implement the model-view-controller (MVC) pattern, but it's just not true.
 * [On PHP 5.3, Lambda Functions and Closures](http://fabien.potencier.org/on-php-5-3-lambda-functions-and-closures.html) - An article about lambda functions and closures.
 * [PHP Is Much Better Than You Think](http://fabien.potencier.org/php-is-much-better-than-you-think.html) - An article about the PHP language and ecosystem.
 * [PHP Package Checklist](http://phppackagechecklist.com/) - A checklist for successful PHP package development.
@@ -883,6 +778,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ## PHP Internals Reading
 *Reading materials related to the PHP internals or performance.*
 
+* [Bummer PHP](http://bitflop.dk/articles/bummer-php.html) - A small article about how the PHP interpreter handles a specific source code error compared to other interpreters and compilers.
 * [Disproving the Single Quotes Myth](http://nikic.github.io/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) - An article about performance of single and double quoted strings.
 * [How Big Are PHP Arrays (And Values) Really?](http://nikic.github.io/2011/12/12/How-big-are-PHP-arrays-really-Hint-BIG.html) - An article about array internals.
 * [How Foreach Works](https://stackoverflow.com/questions/10057671/how-does-php-foreach-actually-work/14854568#14854568) - A detailed StackOverflow answer about foreach.
