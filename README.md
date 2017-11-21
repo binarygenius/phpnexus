@@ -9,12 +9,8 @@ Please help keep the list updated!
 ## Composer Repositories
 *Composer Repositories.*
 
-* [Firegento](http://packages.firegento.com/) - Magento Module Composer Repository.
 * [Packagist](https://packagist.org/) - The PHP Package Repository.
 * [PaketHub](https://pakethub.com/) - All-in-One PHP Package Repository.
-* [Private Packagist](https://packagist.com/) - Composer package archive as a service for PHP.
-* [WordPress Packagist](https://wpackagist.org/) - Manage your plugins with Composer.
-* [Zend Framework Packages](https://packages.zendframework.com/) - Zend Framework Composer Repository.
 
 ## Dependency Management
 *Libraries for dependency and package management.*
