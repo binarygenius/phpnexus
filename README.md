@@ -1,4 +1,4 @@
-![Logo](https://github.com/binarygenius/phpnexus/blob/master/img/logo.png)
+![Logo](img/logo.png)
 
 PHP has a huge community and many resources spread all around the Internet. This list in an attempt to keep the very best resources collected in one location.
 
